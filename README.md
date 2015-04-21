@@ -1,2 +1,0 @@
-# ipadownload
-ipa download testing
